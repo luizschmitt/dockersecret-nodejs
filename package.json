@@ -1,0 +1,20 @@
+{
+  "name": "dockersecret-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/luizschmitt/dockersecret-nodejs"
+  },
+  "keywords": [
+    "Docker",
+    "Secret",
+    "Node.JS"
+  ],
+  "author": "",
+  "license": "ISC"
+}
